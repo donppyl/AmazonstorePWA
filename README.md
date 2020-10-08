@@ -2,7 +2,7 @@
 
 Clone of the largest e-commerce platform fully functional with Stripe API payment gateway functionality
 
-Link: clone-43168.web.app
+Link:  https://clone-43168.web.app/
 
 
 ![AmazonHomepage](https://user-images.githubusercontent.com/53883135/94656876-b6bb7d00-0311-11eb-8dae-a382a791ef75.png)
